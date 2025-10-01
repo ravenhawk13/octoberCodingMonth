@@ -1,0 +1,2 @@
+- Each project is not a newer version of the previous. Meaning that Day 2 is not a contuitation of Day 1 (e.g., building a 30 day app).
+- These projects are personal and not revolved around coursework
